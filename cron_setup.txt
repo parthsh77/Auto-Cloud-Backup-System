@@ -1,0 +1,2 @@
+# Runs daily at 2 AM
+0 2 * * * /usr/bin/python3 /home/user/Automated-Cloud-Backup-System/cloud_backup.py
